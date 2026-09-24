@@ -1,9 +1,4 @@
 # Computer Networks Lab Practicals: Cisco Packet Tracer
-
-**Repository**: [github.com/akshat1845/CN-practical](https://github.com/akshat1845/CN-practical)  
-**Author**: Akshat (GitHub: [@akshat1845](https://github.com/akshat1845))  
-**Instructor / Evaluator**: `anirudhg@srmist.edu.in`  
-
 ---
 
 ## 📑 Table of Contents
